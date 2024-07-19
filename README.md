@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jako-F-Trades
-- 👀 I’m interested in creating funky little games & things
+- 👀 I’m interested in creating funky little games & programs
 - 🌱 I’m currently learning the Unity and Godot engines
 - 💞️ I’m looking to collaborate on cool games & other things
 - 📫 How to reach me: idk
